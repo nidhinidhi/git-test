@@ -6,3 +6,6 @@ First project on github - testing github command
 - initial github push testing
 ### Abstract
 - Introduction about my fisrt project to github
+###Idea
+- goto the step by step and easy to understand
+
