@@ -1,4 +1,5 @@
-# git-test
+# Codechef
+
 First project on github - testing github command
 
 
